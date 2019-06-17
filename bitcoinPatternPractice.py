@@ -3,3 +3,5 @@
 #How often are certain days of the week profitable?
 #Volume?
 #Do these hold up the last 1, 6, and 12 months?
+
+import pandas as pd
